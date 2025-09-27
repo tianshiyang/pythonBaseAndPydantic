@@ -1,0 +1,2 @@
+# pythonBaseAndPydantic
+python基础学习以及pydantic学习
